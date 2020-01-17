@@ -1,6 +1,12 @@
-# Super_Library
-The source application for the youtube videos for super library in this playlist
-https://www.youtube.com/watch?v=a9CC-6i-erc&list=PLfqLqfbPhVTPixCsoCufKNaTz8oI2opff
+# Super Library
+In the aim to demonstrate the basics of MySQL with C# :computer:, I went through creating a small console application to manage a library
 
-A simple application to manage a library to demonstrate basic use of SQL and building and connection a UI to it using WPF
+You can follow along on Youtube:
 
+1. [Building the ERD diagram](https://youtu.be/a9CC-6i-erc) :chart:
+1. [SQL CRUD queries](https://youtu.be/L6PzguGNRcY) :floppy_disk:
+1. [Console application and MySQL driver](https://youtu.be/4AROE46GWKc) :link:
+
+**NOTE: the youtube videos are in Arabic**
+
+Made with :heart:
